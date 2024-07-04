@@ -10,7 +10,7 @@ Anyway, i don't think ill be maintaining this further, i realized we out of the 
 
 However ive placed this code here for others looking to learn DroidScript, or build applications using it, this serves as a way to show that indeed DroidScript apps can handle complexity.
 
-Here are some screenshots of my work : 
+Here are some screenshots of my work :
 
 ![ScreenShot 1](Img/shot1.png)
 
